@@ -1,3 +1,0 @@
-'''
-    Visualize some samples.
-'''
