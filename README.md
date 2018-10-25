@@ -1,15 +1,22 @@
-# Introduction-to-Machine-Intelligence-Course
+# Deep-Learning-Projects
 Course Projects from MIE324 Introduction to Machine Intelligence
 
 
-#### Assignment 1:
+#### Cats and dogs (Assignment 1):
 Training a convolutional neural network (CNN) to classify images of cats and dogs
 
-#### Assignment 2:
-Coding and training a multilayer perceptron (MLP) neural network to classify income based on individual stats
+#### Income prediction (Assignment 2):
+Coding and training a multilayer perceptron (MLP) neural network to classify income based on individual statistics
 
-#### Assignment 3:
-Coding and training a CNN to identify smartphone hand gestures
+#### Mobile phone gesture identification (Assignment 3):
+-Utilizes deep learning and convolutional neural networks to process gyroscope data from mobile phones
+-Built and created own dataset based on data collected in class
+-Achieves 85% accuracy in identifying different phone movements
+-Uses Python, PyTorch, Pandas, and Sk-learn
 
-#### Final Project:
-TBD
+#### Music genre classifier (Final project):
+-Classify music genres from audio utilizing a CNN
+-Collected and processed song data from the Million Songs dataset
+-Uses Python, PyTorch, Pandas, and Sk-learn
+
+(Progress will be updated by the end of November)
