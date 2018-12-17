@@ -19,9 +19,5 @@ Coding and training a multilayer perceptron (MLP) neural network to classify inc
 -Achieves 92% accuracy
 
 #### Music genre classifier (Final project):
--Classify music genres from audio utilizing a CNN
--Collected and processed song data from the Million Songs dataset
--Uses Python, PyTorch, Pandas, and Sk-learn
+A music genre classifier trained using deep learning and neural networks, that outputs the predicted genre and confidence level (0-1) of any piece of mp3 audio sample
 -Repo link: https://github.com/billyhsun/MusicGenre
-
-(Progress will be updated by the end of November)
